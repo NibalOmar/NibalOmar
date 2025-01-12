@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Nibal Omar</h1>
-<h3 align="left">A dedicated Frontend dev from AL-Hazmiyah</h3>
+<h3 align="left"> Frontend Developer</h3>
 
 - 🌍 **I,m established in AL-Hazmiyah, Lebanon**
 
