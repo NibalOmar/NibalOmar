@@ -7,6 +7,8 @@
 
 - 📫 You may get in touch with me on **nibalprog@gemail.com**
 
+- 🧠 Mastering Self and skills
+
 - ⚡ **Continuously striving to expand Knowledge**
 
 <h3 align="left">Connect with me:</h3>
